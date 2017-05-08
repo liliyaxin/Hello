@@ -27,7 +27,10 @@
 25. Push的意义是
 
 ### ---答案
-1. new repository创建仓库  import repository导入库  new gist创建代码片段  new organization创建组织
+1. new repository创建仓库  
+import repository导入库  
+new gist创建代码片段  
+new organization创建组织
 2. 在仓库里找到create new file，文件名后缀为.html，然后再在仓库中的settings中找到GitHub Pages 将sourse中的None改为master branch，save,在点击给出的网址，后面加上文件名
 3. settings中最下面，Danger Zone中有Delete this repository
 4. Bash是Linux操作系统的命令
@@ -38,7 +41,10 @@
 9. 配置邮箱的命令是 git config --global user.email "563294284@qq.com"
 10. \
 11. Ctrl+C
-12. 使git能够发挥强大功能的最佳方式  可以方便的查看每个仓库的状态  可以写批处理 一次性建多个文件夹  复杂的命令很容易完成
+12. 使git能够发挥强大功能的最佳方式  
+可以方便的查看每个仓库的状态  
+可以写批处理 一次性建多个文件夹  
+复杂的命令很容易完成
 13. 控制提交的颗粒度，可以保证返回到合适的版本   工作区 仓库 中间有暂存区  工作区中对于之前的文档有10个变动  可以将10个变动一起放到暂存区中,可以选择将10个变动全都commit上去  也可以自己选3+4+3（相当于三个版本） 可以根据自己的需求划分几个版本
 14. git init      github-create repo_name
 15. 将URL地址的远程版本库克隆在本地
